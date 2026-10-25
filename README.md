@@ -247,7 +247,7 @@ I prioritized **source-grounded answers, predictable failures, and explicit scop
 
 ## Explore the design
 
-- [Original LangGraph design](architecture/langgraph-original-design.png)
+- [Original LangGraph design](architecture/LangGraph_Design.png)
 - [Backend architecture and integration flows](docs/backend-architecture.md)
 - [Flutter assistant screenshots](screenshots/)
 
