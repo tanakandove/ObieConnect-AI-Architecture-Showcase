@@ -249,6 +249,7 @@ I prioritized **source-grounded answers, predictable failures, and explicit scop
 
 - [Original LangGraph design](architecture/LangGraph_Design.png)
 - [Backend architecture and integration flows](docs/backend-architecture.md)
-- [Flutter assistant screenshots](screenshots/)
+- [View Flutter App Screenshots](./screenshots/)
+
 
 **Why make this public?** The application code and real user data remain private, but the architecture, trade-offs, and engineering lessons are worth sharing. This is a portfolio-grade overview of how I built an AI feature inside a full-stack mobile product—not a runnable starter template.
