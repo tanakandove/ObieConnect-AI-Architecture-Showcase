@@ -20,7 +20,7 @@ A student asks, **“How can I go about finding internships?”** ObieConnect re
 | :---: | :---: |
 | ![ObieConnect Flutter chat responding to an internship question](screenshots/assistant-internship-answer.png) | ![Continuation of the answer with useful links and opportunities](screenshots/assistant-answer-sources.png) |
 
-**Architecture diagram:** [Original LangGraph design sketch](architecture/langgraph-original-design.png). The implemented graph has since evolved, including an explicit revision node and additional input-handling logic; the Mermaid diagram below represents the updated flow.
+**Architecture diagram:** [Original LangGraph design sketch](architecture/LangGraph_Design.png). The implemented graph has since evolved, including an explicit revision node and additional input-handling logic; the Mermaid diagram below represents the updated flow.
 
 ## Tech stack
 
